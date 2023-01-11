@@ -1,4 +1,4 @@
-Hi 👋 My name is Muhammad Fyrooz Razi
+Hi I am Muhammad Fyrooz Razi
 =====================================
 
 Full Stack Developer - MERN
