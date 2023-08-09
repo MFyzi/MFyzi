@@ -34,7 +34,8 @@ I am an computer science engineer, Have skills in MERN stack, Python and it's li
 
 ### Pyhon
 <p>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./images/mysql.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./images/numpy.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./images/pandas.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 ### Database
