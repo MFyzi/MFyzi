@@ -1,14 +1,14 @@
 It's Me Muhammad Fyrooz Razi
 =====================================
 
-Full Stack Developer - MERN
+MERN-Stack | Python 
 ---------------------------
 
-I am an computer science engineer, focusing on full stack development especially in MERN stack
+I am an computer science engineer, Have skills in MERN stack, Python and it's libraries and other programming languages
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [fyroozc@gmail.com](mailto:fyroozc@gmail.com)
-* 🤝  I'm open to collaborating on mern stack projects
+* 🤝  I'm open tp collaborating on software projects
 
 ### Skills
 
@@ -37,6 +37,6 @@ I am an computer science engineer, focusing on full stack development especially
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MFyzi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MFyzi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MuhammadFyroozRazi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFyroozRazi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MFyzi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFyzi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MuhammadFyroozRazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFyroozRazi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
