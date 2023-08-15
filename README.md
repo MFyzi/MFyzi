@@ -74,7 +74,7 @@ I am an computer science engineer, Have skills in MERN stack, Python and it's li
 
 **File Organzer** | **Article Webapp** 
 |--|--
-This is an python application for organizing the files inside an directory. This projects uses os,shutil modules for file operations, and tkinter for UI.</p> <picture> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/file_organizer_window.png" width="480"> </picture> | This application is an text based article creating and sharing web application created using next.js framework  </p> <picture> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/file_organizer_window.png" width="480"> </picture> 
+This is an python application for organizing the files inside an directory. This projects uses os,shutil modules for file operations, and tkinter for UI.</p> <picture> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/file_organizer_window.png" width="480"> </picture> | This application is an text based article creating and sharing web application created using next.js framework  </p> <picture> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/article-create-page.png" width="480"> </picture> 
 
 #
 ### Socials
