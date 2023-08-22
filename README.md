@@ -9,7 +9,7 @@
 Software Developer | MERN | Python 
 ---------------------------
 
-I am an computer science engineer, Have skills in MERN stack, Python and it's libraries, and other programming languages.
+I am an computer science engineering graduate, Have skills in MERN stack, Python and it's libraries, and other programming languages.
 
 > I'm based in India
 
@@ -77,7 +77,12 @@ I am an computer science engineer, Have skills in MERN stack, Python and it's li
 |--|--
 This is an python application for organizing the files inside an directory. This projects uses os,shutil modules for file operations, and tkinter for UI. Copy the Code and run in your local environment. <picture> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/file_organizer_window.png" width="700"> </picture> | This application is an text based article creating and sharing web application created using next.js framework. Use desktop for better experience (on going project) https://articlewebapplication-cjxd3pdad-muhammadfyroozrazi.vercel.app/articles/create <picture> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/article-create-page.png" width="480"> </picture> 
 
-#
+##
+### Other certifications
+Certifite from Kaggle on 'Intro to Machine Learning' <br>https://www.kaggle.com/learn/certification/muhammadfyroozrazic/intro-to-machine-learning<br><br><img src="./images/Muhammad Fyrooz Razi C - Intro to Machine Learning (5) - Copy.png" width="420" height="280" />|
+|--
+
+##
 ### Socials
 <a href="https://www.github.com/MuhammadFyroozRazi" target="_blank" rel="noreferrer"><img src="./images/github.svg" width="32" height="28" /></a> <a href="https://www.linkedin.com/in/muhammad-fyrooz-razi-c-ba34ba249/" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" width="32" height="28" /></a> |
 |--
