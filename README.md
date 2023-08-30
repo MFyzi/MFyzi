@@ -53,7 +53,7 @@ Certifite from Kaggle on 'Intro to Machine Learning' <br>https://www.kaggle.com/
 
 ##
 
-<!-- ### Badges -->
+<!-- ### Badges --->
 
 ## My GitHub Stats
 
