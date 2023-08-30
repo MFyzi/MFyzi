@@ -35,17 +35,22 @@ I am an computer science engineering graduate, Have skills in MERN stack, Python
 
 **File Organzer** <a href="https://github.com/MuhammadFyroozRazi/file_organizer" target="_blank" rel="noreferrer">code link<img src="./images/link.svg" width="24" height="13" alt="JavaScript" /> | **Article Webapp** <a href="https://github.com/MuhammadFyroozRazi/articlewebapplication" target="_blank" rel="noreferrer">code link<img src="./images/link.svg" width="24" height="13" alt="JavaScript" />
 |--|--
- This is an python application for organizing the files inside an directory. This projects uses os,shutil modules for file operations, and tkinter for UI. Copy the Code and run in your local environment.![File Organizer Screenshot](./images/file_organizer_window.png)- [Code Link](https://github.com/MuhammadFyroozRazi/file_organizer) | This application is an text based article creating and sharing web application created using next.js framework. Use desktop for better experience (on going project). ![Article Webpage screenshot](/images/article-create-page.png) - [Code Link](https://github.com/MuhammadFyroozRazi/articlewebapplication)<br>- [App Link](https://articlewebapplication-cjxd3pdad-muhammadfyroozrazi.vercel.app/articles/create)
+ This is an python application for organizing the files inside an directory. This projects uses os,shutil modules for file operations, and tkinter for UI. Copy the Code and run in your local environment.![File Organizer Screenshot](./images/file_organizer_window.png) | This application is an text based article creating and sharing web application created using next.js framework. Use desktop for better experience (on going project).  [**App Link**](https://articlewebapplication-cjxd3pdad-muhammadfyroozrazi.vercel.app/articles/create) ![Article Webpage screenshot](/images/article-create-page.png)<br>
 
 <br>
+
 
  Exercise Tracker : This is one of the final projects from Free Code Camp's certification in 'Backend Development and APIs'. I have written the entire backend of this project in 'express' and 'mongodb' as the database.![Exercise Tracker Screenshot](./images/exercise%20tracker.png)- [Code Link](https://github.com/MuhammadFyroozRazi/freecode-exercise-tracker)<br>- [App Link](https://boilerplate-project-exercisetracker-1.muhammadfyroozr.repl.co/) | File Metadata Microservice : This is also one of the final projects from Free Code Camp's certification in 'Backend Development and APIs'. This is a simple microservice to show the metadata of uploaded files. I wrote the backend in Express and used the 'multer' package for accessing file data. ![File Metadata Microservice Screenshot](./images/metadata%20freecodecamp.png) - [Code Link](https://github.com/MuhammadFyroozRazi/freecode-file-metadata-microservice)<br>- [App Link](https://boilerplate-project-filemetadata.muhammadfyroozr.repl.co/)
 |--|--
 
 ##
 ### Other certifications
-Certifite from Kaggle on 'Intro to Machine Learning' <br>https://www.kaggle.com/learn/certification/muhammadfyroozrazic/intro-to-machine-learning<br><br><img src="./images/Muhammad Fyrooz Razi C - Intro to Machine Learning (5) - Copy.png" width="380" height="260" />| Certifite from Free Code Camp on 'Backend Development and APIs' <br>https://www.freecodecamp.org/certification/Fyrooz/back-end-development-and-apis<br><br><img src="./images/freecodecamp-backend-cirtificate 1.png" width="380" height="280" />
+Certifite from Kaggle on 'Intro to Machine Learning' <br>[Certificate Link](https://www.kaggle.com/learn/certification/muhammadfyroozrazic/intro-to-machine-learning)<br><br><img src="./images/Muhammad Fyrooz Razi C - Intro to Machine Learning (5) - Copy.png" width="380" height="260" />| Certifite from Free Code Camp on 'Backend Development and APIs' <br>[Certificate Link](https://www.freecodecamp.org/certification/Fyrooz/back-end-development-and-apis) <br><br><img src="./images/freecodecamp-backend-cirtificate 1.png" width="380" height="280" />
 |--|--
+<!-- #
+### Other certifications
+Certifite from Kaggle on 'Intro to Machine Learning'<br> [Certificate Link](https://www.kaggle.com/learn/certification/muhammadfyroozrazic/intro-to-machine-learning)![Exercise Tracker Screenshot](./images/Muhammad Fyrooz Razi C - Intro to Machine Learning (5) - Copy.png) | File Metadata Microservice : This is also one of the final projects from Free Code Camp's certification in 'Backend Development and APIs'. This is a simple microservice to show the metadata of uploaded files. I wrote the backend in Express and used the 'multer' package for accessing file data. ![File Metadata Microservice Screenshot](./images/metadata%20freecodecamp.png) - [Code Link](https://github.com/MuhammadFyroozRazi/freecode-file-metadata-microservice)<br>- [App Link](https://boilerplate-project-filemetadata.muhammadfyroozr.repl.co/)
+|--|-- -->
 
 
 ##
